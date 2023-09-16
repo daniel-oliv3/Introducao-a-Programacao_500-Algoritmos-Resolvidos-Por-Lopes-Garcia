@@ -28,7 +28,7 @@
 - Exemplo
     - 35_exercicio.cpp
 
-### 37 - Ler dois n�meros inteiros e imprimir o produto.
+### 37 - Ler dois numeros inteiros e imprimir o produto.
 
 - Exemplo
     - 37_exercicio.cpp
@@ -48,7 +48,7 @@
 - Exemplo
     - 40_exercicio.cpp
 
-### 41 - Entrar com quatro n�meros e imprimir a m�dia ponderada, sabendo-se que os pesos s�o respectivamente: 1, 2, 3, e 4
+### 41 - Entrar com quatro numeros e imprimir a m�dia ponderada, sabendo-se que os pesos sao respectivamente: 1, 2, 3, e 4
 
 - Exemplo
     - 41_exercicio.cpp
